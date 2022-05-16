@@ -1,2 +1,2 @@
-# PROJECT-L.I.F.E-Demo
-Demo of the combat arena elemental platformer PROJECT L.I.F.E
+# PROJECT L.I.F.E Demo
+Demo of a elemental combat platformer, inspired by games like Hollow Knight
